@@ -1,0 +1,2 @@
+# tech stack
+mern stack
